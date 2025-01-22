@@ -43,7 +43,7 @@ This document delivers an overview of the folders, their contained code and othe
 - `data/`: Contains the data used by the dashboard. This includes the OCT images and the predictions made by the 
   OphthalmoAI model. Note: Data will not be published so the folder is empty. If reasonable interest exists, write an email to the author.
 - `icons/`: Contains the icons used by the dashboard.
-- `src/`: Contains the source code for the backend of the dashboard. For more details see [backend documentation](../ophthalmo-cdss/src/Readme.md).
+- `src/`: Contains the source code for the backend of the dashboard. For more details see [backend documentation](src/Readme.md).
 - `tests/`: Contains the tests for the dashboard. For more details see [test documentation](tests/Readme.md).
 - `visual_components/`: Contains streamlit code for the visual components that make up the dashboard. 
   For more details see [VC documentation](visual_components/Readme.md).
