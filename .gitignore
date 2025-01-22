@@ -1,3 +1,5 @@
+.idea
+.streamlit
 data/OCT
 data/temp/*
 data/vol.zip
